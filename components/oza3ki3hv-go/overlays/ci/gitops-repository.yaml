@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: oza3ki3hv-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/oza3ki3hv-go-gitops
